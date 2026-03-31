@@ -358,6 +358,7 @@ http://45.235.0.78/ESPN_2/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="1634" tvg-id="ESPN.2.br" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPN2.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",ESPN 2 🇧🇷
 #EXTGRP:Liga Betclic⚽️;Sports 🇧🇷;La Liga⚽️
+http://46.151.196.223:14438
 
 ---
 
@@ -396,7 +397,7 @@ https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/ESP
 
 #EXTINF:-1 tvg-chno="" cuid="1641" tvg-id="ESPN.5.br" tvg-name="ESPN5" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPN5.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",ESPN 5 🇧🇷
 #EXTGRP:Sports 🇧🇷
-http://46.151.196.223:14438
+http://46.151.196.223:14456
 
 #EXTINF:-1 tvg-chno="" cuid="1643" tvg-id="ESPN.5.br" tvg-name="ESPN5" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPN5.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",ESPN 5 🇧🇷
 #EXTGRP:Sports 🇧🇷
