@@ -240,15 +240,9 @@ http://45.235.0.78/Band_Sports/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="1606" tvg-name="Sportv" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/sportv.png" group-title="World Sports 🌎",Sportv 🇧🇷⚽️
 #EXTGRP:Sports 🇧🇷
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
+http://46.151.196.223:14286
 
-#EXTINF:-1 tvg-chno="" cuid="1607" tvg-name="Sportv" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/sportv.png" group-title="World Sports 🌎",Sportv 🇧🇷⚽️
-#EXTGRP:Sports 🇧🇷
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733
-https://a123aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
+
 
 #EXTINF:-1 tvg-chno="" cuid="1608" tvg-name="Sportv" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/sportv.png" group-title="World Sports 🌎",Sportv 🇧🇷⚽️
 #EXTGRP:Sports 🇧🇷
@@ -258,9 +252,7 @@ https://02.arlivre.online/sportv/index.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="1609" tvg-name="Sportv2" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Sportv2.png" group-title="World Sports 🌎",Sportv 2 🇧🇷🏐
 #EXTGRP:Sports 🇧🇷
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
+http://2025easy.lat:80/live/rc8zew5u/21231sw2/1487667.ts
 
 #EXTINF:-1 tvg-chno="" cuid="1610" tvg-name="Sportv2" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Sportv2.png" group-title="World Sports 🌎",Sportv 2 🇧🇷🏐
 #EXTGRP:Sports 🇧🇷
@@ -270,9 +262,7 @@ https://02.arlivre.online/sportv2/index.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="1611" tvg-name="Sportv3" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Sportv3.png" group-title="World Sports 🌎",Sportv 3 🇧🇷🥊🏎️
 #EXTGRP:Sports 🇧🇷
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
+http://79.127.243.211:14473
 
 #EXTINF:-1 tvg-chno="" cuid="1612" tvg-name="Sportv3" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Sportv3.png" group-title="World Sports 🌎",Sportv 3 🇧🇷🥊🏎️
 #EXTGRP:Sports 🇧🇷
@@ -292,53 +282,55 @@ https://02.arlivre.online/combate/index.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="1616" tvg-name="Premiere Clubes" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Premiere.webp" group-title="World Sports 🌎",Premiere Clubes 🇧🇷⚽️
 #EXTGRP:Sports 🇧🇷
-https://abgqhhbaaaaaaaamgyske232j4one.otte.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
 http://45.235.0.78/Premiere_Clubes/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="1618",Premiere Clubes 🇧🇷⚽️
 #EXTGRP:Sports 🇧🇷
-https://02.arlivre.online/pre1/index.m3u8
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278939.m3u8
+http://2025easy.lat:80/live/rc8zew5u/21231sw2/608078.ts
 
 #EXTINF:-1 tvg-chno="" cuid="1619",Premiere Clubes 🇧🇷⚽️
 #EXTGRP:Sports 🇧🇷
-http://104.238.205.58:9090/278939_.m3u8
+http://104.238.205.58:9090/278939.m3u8
 
 ---
 
 #EXTINF:-1 tvg-chno="" cuid="1621",Premiere 2 🇧🇷⚽️
 #EXTGRP:Sports 🇧🇷
-https://02.arlivre.online/pre2/index.m3u8
+http://2025easy.lat:80/live/rc8zew5u/21231sw2/608085.ts
 http://45.235.0.78/Premiere_2/playlist.m3u8
 
 ---
 
 #EXTINF:-1 tvg-chno="" cuid="1623",Premiere 3 🇧🇷⚽️
 #EXTGRP:Sports 🇧🇷
-https://02.arlivre.online/pre3/index.m3u8
+http://2025easy.lat:80/live/rc8zew5u/21231sw2/608092.ts
 http://45.235.0.78/Premiere_3/playlist.m3u8
 
 ---
 
 #EXTINF:-1 tvg-chno="" cuid="1625",Premiere 4 🇧🇷⚽️
 #EXTGRP:Sports 🇧🇷
-https://02.arlivre.online/pre4/index.m3u8
+http://2025easy.lat:80/live/rc8zew5u/21231sw2/608099.ts
 http://45.235.0.78/Premiere_4/playlist.m3u8
 
 ---
 
 #EXTINF:-1 tvg-chno="" cuid="1627",Premiere 5 🇧🇷⚽️
 #EXTGRP:Sports 🇧🇷
-https://02.arlivre.online/pre5/index.m3u8
+http://2025easy.lat:80/live/rc8zew5u/21231sw2/608106.ts
 http://45.235.0.78/Premiere_5/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="1628",Premiere 6 🇧🇷⚽️
 #EXTGRP:Sports 🇧🇷
-https://02.arlivre.online/pre6/index.m3u8
+http://2025easy.lat:80/live/rc8zew5u/21231sw2/608119.ts
 
 #EXTINF:-1 tvg-chno="" cuid="1629",Premiere 7 🇧🇷⚽️
 #EXTGRP:Sports 🇧🇷
 https://02.arlivre.online/pre7/index.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="1629",Premiere 8 🇧🇷⚽️
+#EXTGRP:Sports 🇧🇷
+http://2025easy.lat:80/live/rc8zew5u/21231sw2/608131.ts
 
 =====================🔹========================
  ESPN BRASIL 🇧🇷
@@ -371,7 +363,7 @@ http://45.235.0.78/ESPN_2/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="1635" tvg-id="ESPN.3.br" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPN3.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",ESPN 3 🇧🇷
 #EXTGRP:Liga Betclic⚽️;Sports 🇧🇷;La Liga⚽️
-https://02.arlivre.online/espn3/index.m3u8
+http://46.151.196.223:14444
 
 #EXTINF:-1 tvg-chno="" cuid="1636" tvg-id="ESPN.3.br" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPN3.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",ESPN 3 🇧🇷
 #EXTGRP:Liga Betclic⚽️;Sports 🇧🇷;La Liga⚽️
@@ -386,7 +378,7 @@ http://45.235.0.78/ESPN_3/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="1638" tvg-id="ESPN.4.br" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPN4.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",ESPN 4 🇧🇷
 #EXTGRP:Sports 🇧🇷;La Liga⚽️;Liga Betclic⚽️;Premier League⚽️;Serie A⚽️
-https://02.arlivre.online/espn4/index.m3u8
+http://46.151.196.223:14450
 
 #EXTINF:-1 tvg-chno="" cuid="1639" tvg-id="ESPN.4.br" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPN4.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",ESPN 4 🇧🇷
 #EXTGRP:Sports 🇧🇷;La Liga⚽️;Liga Betclic⚽️;Premier League⚽️;Serie A⚽️
@@ -402,6 +394,10 @@ http://45.235.0.78/ESPN_4/playlist.m3u8
 #EXTGRP:Sports 🇧🇷
 https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/ESPN5.m3u8
 
+#EXTINF:-1 tvg-chno="" cuid="1641" tvg-id="ESPN.5.br" tvg-name="ESPN5" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPN5.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",ESPN 5 🇧🇷
+#EXTGRP:Sports 🇧🇷
+http://46.151.196.223:14438
+
 #EXTINF:-1 tvg-chno="" cuid="1643" tvg-id="ESPN.5.br" tvg-name="ESPN5" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPN5.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",ESPN 5 🇧🇷
 #EXTGRP:Sports 🇧🇷
 http://45.235.0.78/Fox_Sports_2/playlist.m3u8
@@ -411,6 +407,10 @@ http://45.235.0.78/Fox_Sports_2/playlist.m3u8
 #EXTINF:-1 tvg-chno="" cuid="1644" tvg-id="ESPN.6.br" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPN6.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",ESPN 6 🇧🇷
 #EXTGRP:Sports 🇧🇷
 http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="1644" tvg-id="ESPN.6.br" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPN6.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",ESPN 6 🇧🇷
+#EXTGRP:Sports 🇧🇷
+http://46.151.196.223:14444
 
 =====================🔹========================
 TNT 🇧🇷
