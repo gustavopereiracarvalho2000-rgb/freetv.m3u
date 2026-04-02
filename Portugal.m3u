@@ -1,1 +1,99 @@
+#EXTM3U
 
+
+########## CANAIS PORTUGUÊSES ##########
+
+
+#EXTINF:-1 tvg-name="RTP 1" group-title="GENERAL",RTP 1
+http://kstv.us:8080/KaMFB1hqFc/0130873514/48482
+
+#EXTINF:-1 tvg-name="RTP 2" group-title="GENERAL",RTP 2
+http://kstv.us:8080/KaMFB1hqFc/0130873514/48483
+
+#EXTINF:-1 tvg-name="SIC" group-title="GENERAL",SIC
+http://kstv.us:8080/KaMFB1hqFc/0130873514/48483
+
+#EXTINF:-1 tvg-name="TVI" group-title="GENERAL",TVI
+http://kstv.us:8080/KaMFB1hqFc/0130873514/1699137546
+
+#EXTINF:-1 tvg-name="SIC NOTICIAS" group-title="GENERAL",SIC NOTICIAS
+http://kstv.us:8080/KaMFB1hqFc/0130873514/48494
+
+#EXTINF:-1 tvg-name="RTP NOTICIAS" group-title="GENERAL",RTP NOTICIAS
+http://kstv.us:8080/KaMFB1hqFc/0130873514/48485
+
+#EXTINF:-1 tvg-name="CNN" group-title="GENERAL",CNN
+http://duab.xyz:80/4ED3H4C/URF46UC/763958
+
+#EXTINF:-1 tvg-name="CMTV" group-title="GENERAL",CMTV
+http://kstv.us:8080/KaMFB1hqFc/0130873514/48436
+
+#EXTINF:-1 tvg-name="NOW" group-title="GENERAL",NOW
+http://duab.xyz:80/4ED3H4C/URF46UC/947886
+
+#EXTINF:-1 tvg-name="GLOBO" group-title="GENERAL",GLOBO
+http://kstv.us:8080/KaMFB1hqFc/0130873514/48460
+
+#EXTINF:-1 tvg-name="CANAL 11" group-title="DESPORTO",CANAL 11
+http://kstv.us:8080/KaMFB1hqFc/0130873514/48431
+
+#EXTINF:-1 group-title="GENERAL",SIC CARAS
+http://kstv.us:8080/KaMFB1hqFc/0130873514/48491
+
+#EXTINF:-1 group-title="GENERAL",SIC RADICAL
+http://kstv.us:8080/KaMFB1hqFc/0130873514/48495
+
+#EXTINF:-1 group-title="GENERAL",SIC MULHER
+http://kstv.us:8080/KaMFB1hqFc/0130873514/48493
+
+#EXTINF:-1 tvg-name="RTP MEMORIA" group-title="GENERAL",RTP MEMORIA
+http://kstv.us:8080/KaMFB1hqFc/0130873514/48489
+
+#EXTINF:tvg-name="CANAL 11" group-title="DESPORTO",CANAL 11
+http://kstv.us:8080/KaMFB1hqFc/0130873514/48501
+
+#EXTINF:tvg-name="SPORT TV 1" group-title="DESPORTO",SPORT TV 1
+http://kstv.us:8080/KaMFB1hqFc/0130873514/48496
+
+#EXTINF:-1 tvg-name="SPORT TV 2" group-title="DESPORTO",SPORT TV 2
+http://kstv.us:8080/KaMFB1hqFc/0130873514/48497
+
+#EXTINF:tvg-name="SPORT TV 3" group-title="DESPORTO",SPORT TV 3
+http://kstv.us:8080/KaMFB1hqFc/0130873514/48498
+
+#EXTINF:-1 tvg-name="SPORT TV 4" group-title="DESPORTO",SPORT TV 4
+http://kstv.us:8080/KaMFB1hqFc/0130873514/48499
+
+#EXTINF:-1 tvg-name="SPORT TV 5" group-title="DESPORTO",SPORT TV 5
+http://kstv.us:8080/KaMFB1hqFc/0130873514/48500
+
+#EXTINF:-1 tvg-name="EUROSPORT 1" group-title="DESPORTO",EUROSPORT 1
+http://kstv.us:8080/KaMFB1hqFc/0130873514/48449
+
+#EXTINF:-1 tvg-name="EUROSPORT 2" group-title="DESPORTO",EUROSPORT 2
+http://kstv.us:8080/KaMFB1hqFc/0130873514/48450
+
+#EXTINF:-1 tvg-name="A BOLA TV" group-title="DESPORTO",A BOLA TV
+http://kstv.us:8080/KaMFB1hqFc/0130873514/48420
+
+#EXTINF:-1 tvg-name="BENFICA TV" group-title="DESPORTO",BENFICA TV
+http://kstv.us:8080/KaMFB1hqFc/0130873514/1699137546
+
+
+#EXTINF:-1 tvg-name="DAZN 1" group-title="DESPORTO",DAZN 1
+http://kstv.us:8080/KaMFB1hqFc/0130873514/48443
+
+#EXTINF:-1 tvg-name="DAZN 2" group-title="DESPORTO",DAZN 2
+http://kstv.us:8080/KaMFB1hqFc/0130873514/48444
+
+#EXTINF:-1 tvg-name="DAZN 3" group-title="DESPORTO",DAZN 3
+http://kstv.us:8080/KaMFB1hqFc/0130873514/48445
+
+#EXTINF:-1 tvg-name="DAZN 4" group-title="DESPORTO",DAZN 4
+http://kstv.us:8080/KaMFB1hqFc/0130873514/48446
+
+#EXTINF:-1 tvg-name="DAZN 5" group-title="DESPORTO",DAZN 5
+http://kstv.us:8080/KaMFB1hqFc/0130873514/48447
+
+#EXTINF:-1 tvg-name="DAZN 6" group-title="DESPORTO",DAZN 6
+http://kstv.us:8080/KaMFB1hqFc/0130873514/48448
