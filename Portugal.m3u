@@ -61,6 +61,9 @@ http://7smartvplayers.top:8080/bwbzv6lp/632f7f06/359602
 #EXTINF:tvg-name="SPORT TV 1 FHD" group-title="DESPORTO",SPORT TV 1 FHD
 http://7smartvplayers.top:8080/bwbzv6lp/632f7f06/359603
 
+#EXTINF:tvg-name="SPORT TV 1 FHD teste" group-title="DESPORTO",SPORT TV 1 FHD teste
+http://7smartvplayers.top:8080/live/bwbzv6lp/632f7f06/359603.ts
+
 #EXTINF:tvg-name="SPORT TV 1 HD" group-title="DESPORTO",SPORT TV 1 HD
 http://7smartvplayers.top:8080/bwbzv6lp/632f7f06/359604
 
