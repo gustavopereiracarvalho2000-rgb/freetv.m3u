@@ -34,6 +34,11 @@ PARA TELEMÓVEL :
 <img width="800" height="505" alt="IPTV-Smarters-Pro-4" src="https://github.com/user-attachments/assets/2295f514-9e76-4254-b624-2d300b2a3e40" />
 
 DOWNLOAD PARA ANDROID : https://www.iptvsmarters.com/iptv-smarters-5.0.apk
+
 DOWNLOAD PARA IPHONE : https://apps.apple.com/us/app/smarters-player-lite/id1628995509
 
 O IPTV smarters pro é um excelente leitor de listas iptv porque tem suporte para todo o tipo de streams e tem uma bela qualidade de imagem 
+
+
+
+⚠️ Atenção: Todas as ligações de streams disponibilizados nas listas foram retiradas da internet. Eu apenas as organizo, disponibilizo e partilho. Não detenho qualquer servidor e/ou trasmito ou re-emito qualquer tipo de sinal.
