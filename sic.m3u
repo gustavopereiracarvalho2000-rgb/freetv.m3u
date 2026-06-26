@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTVLCOPT:http-origin=https://sic.pt
+#EXTVLCOPT:http-referrer=https://sic.pt/
+https://sic.live.impresa.pt/sic1080p.m3u8
