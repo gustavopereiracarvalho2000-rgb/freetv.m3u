@@ -1,4 +1,6 @@
 #EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2270400,RESOLUTION=1920x1080
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTVLCOPT:http-origin=https://sic.pt
 #EXTVLCOPT:http-referrer=https://sic.pt/
