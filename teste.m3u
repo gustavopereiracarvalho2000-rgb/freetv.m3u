@@ -1,0 +1,6 @@
+#EXTINF:-1 group-title="TV" tvg-id="RTP1.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.pt.png",RTP 1 teste
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0"
+#EXTVLCOPT:http-origin=https://tv.vodafone.pt
+#EXTVLCOPT:http-referrer=https://tv.vodafone.pt/
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|7c2c25e40d8e4f70a3c343e97d9d52ed:07faa6904c06f9bbf8860691c9c3629d
+https://fama-bks-04.cdn.vodafone.pt/bpk-token/2ad@s4ytbsikdpgicwoioqkahrhderuh4mqesi5helda/LIVE/sdash/LIVE$110/index.mpd/Manifest?bkm-query
