@@ -5,4 +5,4 @@
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://tv.vodafone.pt/
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://tv.vodafone.pt/
 #EXTINF:-1 group-title="teste",teste
-https://fama-bks-04.cdn.vodafone.pt/bpk-token/2ad@s4ytbsikdpgicwoioqkahrhderuh4mqesi5helda/LIVE/sdash/LIVE$110/index.mpd/Manifest?bkm-query
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$110/index.mpd/Manifest?start=LIVE&end=END&device=DASH_AVC_FULLHD
